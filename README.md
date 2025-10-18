@@ -1,4 +1,4 @@
-# The Fallen Fruit under the Paradise
+#Fallen Fruit under the Paradise
 
 <p align="center">
   <img src="./assets/fallenfruit.jpeg" alt="Fallen Fruit" style="max-width:100%;height:auto;" />
