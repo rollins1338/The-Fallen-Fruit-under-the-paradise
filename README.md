@@ -1,8 +1,4 @@
-<div align="center">
-<!--
-This is the Platinum Typing Effect Header
--->
-<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=28&pause=1000000&color=E5E4E2&center=true&width=600&lines=Fallen+Fruit+under+the+Paradise&repeat=false" alt="Typing Text Effect" />
+<div align="center"> <!-- This is the Platinum Typing Effect Header --> <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=28&pause=1000000&color=E5E4E2&center=true&width=600&lines=Fallen+Fruit+under+the+Paradise&repeat=false" alt="Typing Text Effect" />
 
 <!-- Badges Section: Visually represents key attributes -->
 
@@ -22,35 +18,13 @@ This is the Platinum Typing Effect Header
 
 </div>
 
-<!-- All sections below the image are now left-aligned -->
+<!-- All sections below the image are left-aligned -->
 
 <div align="left" style="padding-left: 10%;">
+
 <p style="max-width: 700px; padding: 10px;">
 Dark romance with an absolutely unhinged black flag ML.
 </p>
-</div>
-
-<div align="left" style="padding-left: 10%;">
-
-<!-- Hidden Header Row and Separator to force the visual table look -->
-
- 
-
- 
-
- 
-
-Author
-
-Mongsu (몽슈)
-
-The original creator.
-
-Translator
-
-RainOfSnow Team
-
-Provided the core text translation.
 
 <p style="font-style: italic; margin-top: 15px;">I just removed all the censorship to get audiobook vibes</p>
 
