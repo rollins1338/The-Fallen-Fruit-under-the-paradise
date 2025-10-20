@@ -7,7 +7,7 @@ color: E5E4E2 (Platinum/Pale Silver)
 repeat: false (Crucial to make the line stop after one appearance)
 pause: 1000000 (Very high pause to ensure it remains static)
 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=28&pause=1000&color=E5E4E2&center=true&width=600&lines=Fallen+Fruit+under+the+Paradise&repeat=false" alt="Typing Text Effect" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=28&pause=100&color=E5E4E2&center=true&width=600&lines=Fallen+Fruit+under+the+Paradise&repeat=false" alt="Typing Text Effect" />
 
   <p>
 <!-- Genre Badge: UPDATED TO DARK ROMANCE -->
