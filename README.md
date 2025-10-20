@@ -15,5 +15,5 @@ Author(s)
 Mongsu<br>
 몽슈
 
-<i> <b> It was a world truely made for Ulrich - TL note from rainofsnow </b> </i> 
+<i> <b> It was a world truely made for Ulrich </b> </i>- TL note from rainofsnow
 
