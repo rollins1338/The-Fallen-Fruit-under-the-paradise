@@ -22,7 +22,6 @@ pause: 1000000 (Very high pause to ensure it remains static)
 <p align="center">
 <img src="./assets/fallenfruit.jpeg" alt="Fallen Fruit" style="max-width:100%;height:auto;" />
 
-<em align="center">Fallen Fruit Under the Paradise</em>
 
 </p>
 
