@@ -14,7 +14,8 @@ Mongsu<br>
 몽슈
 
 
-Translation taken from [RainOfSnow] (https://rainofsnow.com)
+Translation taken from [RainOfSnow](https://rainofsnow.com/)
+
 
 Removed all censorship and Made to be listened to as Audio by me
 
