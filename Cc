@@ -1,0 +1,29 @@
+<div align="center">
+<!--
+This is the Platinum Typing Effect Header
+-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=28&pause=1000000&color=E5E4E2&center=true&width=600&lines=Fallen+Fruit+under+the+paradise&repeat=false" alt="Typing Text Effect" />
+<!-- Badges Section: Visually represents key attributes -->
+<p>
+<!-- Genre Badge -->
+<img src="https://img.shields.io/badge/GENRE-Historical_Fantasy-9A8C98?style=for-the-badge&logoColor=white" alt="Genre: Historical Fantasy">
+<!-- Status Badge (assuming it's complete/active) -->
+<img src="https://img.shields.io/badge/STATUS-Complete-4CAF50?style=for-the-badge&logoColor=white">
+<!-- Format Badge -->
+<img src="https://img.shields.io/badge/FORMAT-Audio+Novel-F25F5C?style=for-the-badge&logo=audible&logoColor=white">
+</p>
+</div>
+<div align="center">
+<img src="./assets/fallenfruit.jpeg" alt="Fallen Fruit" style="max-width:80%;border-radius:10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+
+
+<h2 style="font-style: italic; color: #E5E4E2;">Fallen Fruit Under the Paradise</h2>
+</div>
+📖 Synopsis & Review
+<div align="center">
+<p style="max-width: 700px; padding: 10px;">
+A captivating and highly recommended read for fans of the 'Black Flag' novel. This project brings the acclaimed work to life, offering a unique censorship-free audio version for the full experience.
+</p>
+</div>
+<div align="center">
+✍️ Creator Information
