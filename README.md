@@ -1,4 +1,4 @@
-# Fallen Fruit under the Paradise
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=500&color=FBBF24&center=true&width=550&lines=Fallen+Fruit+under+the+paradise" alt="Typing Text Effect" />
 
 <p align="center">
   <img src="./assets/fallenfruit.jpeg" alt="Fallen Fruit" style="max-width:100%;height:auto;" />
