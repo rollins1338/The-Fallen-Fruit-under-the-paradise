@@ -16,7 +16,7 @@ Mongsu<br>
 
 Translation taken from [RainOfSnow](https://rainofsnow.com/)
 
-If you want to read directly from there website click [here](https://rainofsnow.com/the-fallen-fruit-under-the-paradise/)
+If you want to read directly from their website click [here](https://rainofsnow.com/the-fallen-fruit-under-the-paradise/)
 
 
 Removed all censorship and Made to be listened to as Audio by me
