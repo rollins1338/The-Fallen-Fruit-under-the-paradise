@@ -7,7 +7,7 @@ color: E5E4E2 (Platinum/Pale Silver)
 repeat: false (Crucial to make the line stop after one appearance)
 pause: 1000000 (Very high pause to ensure it remains static)
 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=28&pause=1000000&color=E5E4E2&center=true&width=600&lines=Fallen+Fruit+under+the+Paradise&repeat=false" alt="Typing Text Effect" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=28&pause=1000&color=E5E4E2&center=true&width=600&lines=Fallen+Fruit+under+the+Paradise&repeat=false" alt="Typing Text Effect" />
 </div>
 
 <p align="center">
@@ -26,7 +26,7 @@ Mongsu<br>
 
 Translation taken from [RainOfSnow](https://rainofsnow.com/)
 
-If you want to read directly from their website click [<i>here</i>](https://rainofsnow.com/the-fallen-fruit-under-the-paradise/)
+If you want to read directly from their website click [here](https://rainofsnow.com/the-fallen-fruit-under-the-paradise/)
 
 
 I removed all censorship to get audiobook vibes when listening.
