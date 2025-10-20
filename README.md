@@ -1,4 +1,11 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=500&color=FBBF24&center=true&width=550&lines=Fallen+Fruit+under+the+paradise" alt="Typing Text Effect" />
+<div align="center">
+<!--
+Font: Merriweather (Elegant Serif)
+Color: #E5E4E2 (Platinum/Pale Silver)
+Size: 28px
+-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=28&pause=500&color=E5E4E2&center=true&width=600&lines=Fallen+Fruit+under+the+paradise" alt="Typing Text Effect" />
+</div>" alt="Typing Text Effect" />
 
 <p align="center">
   <img src="./assets/fallenfruit.jpeg" alt="Fallen Fruit" style="max-width:100%;height:auto;" />
