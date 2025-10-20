@@ -8,6 +8,16 @@ repeat: false (Crucial to make the line stop after one appearance)
 pause: 1000000 (Very high pause to ensure it remains static)
 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=28&pause=1000&color=E5E4E2&center=true&width=600&lines=Fallen+Fruit+under+the+Paradise&repeat=false" alt="Typing Text Effect" />
+
+  <p>
+<!-- Genre Badge: UPDATED TO DARK ROMANCE -->
+<img src="https://img.shields.io/badge/GENRE-Dark_Romance-9C0C30?style=for-the-badge&logoColor=white" alt="Genre: Dark Romance">
+<!-- Status Badge (assuming it's complete/active) -->
+<img src="https://img.shields.io/badge/STATUS-Complete-4CAF50?style=for-the-badge&logoColor=white">
+<!-- Format Badge -->
+<img src="https://img.shields.io/badge/FORMAT-Merged Webnovel-F25F5C?style=for-the-badge&logo=audible&logoColor=white">
+</p>
+
 </div>
 
 <p align="center">
