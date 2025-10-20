@@ -16,7 +16,7 @@ Mongsu<br>
 
 Translation taken from https://rainofsnow.com
 
-Made to be listened to as Audio by me
+Removed all censorship and Made to be listened to as Audio by me
 
 
 <i> <b> This was truly an entire world made for Ulrich </b> </i>- TL note from rainofsnow
