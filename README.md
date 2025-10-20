@@ -2,7 +2,7 @@
 <!--
 This is the Platinum Typing Effect Header
 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=28&pause=1000000&color=E5E4E2&center=true&width=600&lines=Fallen+Fruit+under+the+paradise&repeat=false" alt="Typing Text Effect" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=28&pause=1000000&color=E5E4E2&center=true&width=600&lines=Fallen+Fruit+under+the+Paradise&repeat=false" alt="Typing Text Effect" />
 
 <!-- Badges Section: Visually represents key attributes -->
 
@@ -20,16 +20,17 @@ This is the Platinum Typing Effect Header
 <div align="center">
 <img src="./assets/fallenfruit.jpeg" alt="Fallen Fruit" style="max-width:80%;border-radius:10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 
-<h2 style="font-style: italic; color: #E5E4E2;">Fallen Fruit Under the Paradise</h2>
 </div>
 
-<div align="center">
+<!-- All sections below the image are now left-aligned -->
+
+<div align="left" style="padding-left: 10%;">
 <p style="max-width: 700px; padding: 10px;">
 Dark romance with an absolutely unhinged black flag ML.
 </p>
 </div>
 
-<div align="center">
+<div align="left" style="padding-left: 10%;">
 
 <!-- Hidden Header Row and Separator to force the visual table look -->
 
@@ -65,7 +66,7 @@ Provided the core text translation.
 
 </div>
 
-<div align="center">
+<div align="left" style="padding-left: 10%;">
 
 <p style="border: 2px solid #E5E4E2; padding: 15px; border-radius: 8px; max-width: 600px; background-color: rgba(0, 0, 0, 0.1);">
 <i style="color: #E5E4E2;"> <b> "This was truly an entire world made for Ulrich" </b> </i>
